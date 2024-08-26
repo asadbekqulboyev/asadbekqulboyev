@@ -1,8 +1,4 @@
 ## Assalamu alaytkum va Rohmatulloh 👋
-
-<!--
-**asadbekqulboyev/asadbekqulboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,6 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+**asadbekqulboyev/asadbekqulboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 -->
