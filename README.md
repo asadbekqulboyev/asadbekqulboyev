@@ -17,6 +17,7 @@ Profilimda flow tugmasini bosib qoyishni unutmang.
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadbekqulboyev)](https://github.com/anuraghazra/github-readme-stats)
 
 	
 
