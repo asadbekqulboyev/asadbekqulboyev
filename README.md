@@ -1,4 +1,4 @@
-## Assalamu alaytkum va Rohmatulloh 
+## Assalamu alaykum va Rohmatulloh 
 Github Profilmga xush kelibsiz !. Men barcha loyihalarni joylashtirib borishga xarakat qilaman.
 Profilimda following tugmasini bosib qoyishni unutmang.
 ### Men ishlatayotgan texnologiyalar : 
