@@ -12,9 +12,9 @@ Profilimda following tugmasini bosib qoyishni unutmang.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 <h3 align="left">Meni quydagi tarmoqlarda kuzatib borishingiz mumkin:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/asadbek-qulboyev-091047260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asadbek-qulboyev-091047260/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100073674466427&sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073674466427&sk" height="30" width="40" /></a>
 <a href="https://www.instagram.com/asadbekqulboyev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asadbekqulboyev/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@front_ment" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@front_ment" height="30" width="40" /></a>
-</p>
+</p> -->
