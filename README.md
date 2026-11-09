@@ -1,28 +1,18 @@
-<h1 align="center">Asadbek Qulboyev</h1>
-
-<p align="center"><strong>Full-Stack Developer</strong> · AI Agents · Startups · Business Automation</p>
-
-<p align="center">G'oyani mahsulotga, takroriy ishlarni esa avtomatlashtirilgan jarayonga aylantiraman.</p>
+<p align="center"><img src="https://raw.githubusercontent.com/asadbekqulboyev/asadbekqulboyev/main/assets/profile-header.svg" alt="Asadbek Qulboyev - Full-Stack Developer" width="100%" /></p>
 
 <p align="center"><a href="https://github.com/asadbekqulboyev">GitHub</a> · <a href="https://www.linkedin.com/in/asadbek-qulboyev-091047260/">LinkedIn</a> · <a href="https://www.instagram.com/asadbekqulboyev/">Instagram</a> · <a href="https://www.youtube.com/@front_ment">YouTube</a></p>
 
----
-
-## 👋 Men haqimda
-
-Men frontend, backend va AI yo'nalishlarida ishlaydigan Full-Stack Developer'man. Startup mahsulotlar quraman va bizneslar uchun ish jarayonlarini avtomatlashtiraman.
-
-## 🚀 Nimalar qilaman?
+## What I build
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><h3>AI agentlar</h3>Aqlli yordamchilar<br />Intelligent workflows</td>
-    <td align="center" width="33%"><h3>Startuplar</h3>MVP va prototiplar<br />Web mahsulotlar</td>
-    <td align="center" width="33%"><h3>Automation</h3>API integratsiyalar<br />Biznes jarayonlari</td>
+    <td align="center" width="33%"><h3>AI Agents</h3>Intelligent workflows<br />Smart assistants</td>
+    <td align="center" width="33%"><h3>Startups</h3>MVPs and prototypes<br />Full-stack products</td>
+    <td align="center" width="33%"><h3>Automation</h3>API integrations<br />Business workflows</td>
   </tr>
 </table>
 
-## 🔭 Tools of trade
+## Tools of trade
 
 <table align="center">
   <tr>
@@ -55,12 +45,10 @@ Men frontend, backend va AI yo'nalishlarida ishlaydigan Full-Stack Developer'man
   </tr>
 </table>
 
-## 📌 Tanlangan loyiha
+## Featured work
 
-**[Restaurant order accounting system](https://github.com/asadbekqulboyev/restoran-buyurtmalari)** — Python konsol ilovasi: restoran stollari, menyu, buyurtmalar, hisob, xizmat haqi, chegirma va saqlash.
+**[Restaurant order accounting system](https://github.com/asadbekqulboyev/restoran-buyurtmalari)** — Python console application for tables, menus, orders and billing.
 
-## 📫 Bog'lanish
+## Connect
 
-AI agent, startup yoki biznes automation bo'yicha g'oyangiz bo'lsa, [LinkedIn](https://www.linkedin.com/in/asadbek-qulboyev-091047260/) orqali bog'laning.
-
-<p align="center"><i>Yarataman. Avtomatlashtiraman. O'stiraman.</i></p>
+[LinkedIn](https://www.linkedin.com/in/asadbek-qulboyev-091047260/) · [Instagram](https://www.instagram.com/asadbekqulboyev/) · [YouTube](https://www.youtube.com/@front_ment)
